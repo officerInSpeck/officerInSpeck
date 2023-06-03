@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @officerInSpeck
+- 👀 I’m interested in FiveM Lua Scripting
+- 🌱 I’m currently learning HTML and CSS
